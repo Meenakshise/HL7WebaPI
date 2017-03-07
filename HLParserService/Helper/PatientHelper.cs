@@ -68,5 +68,10 @@ namespace HLParserService.Helper
 
             return objPatientList;
         }
+
+        public static string CreateSampleHL7Message()
+        {
+            return "MSH|^~&|CohieCentral|COHIE|Clinical Data Provider||201703071246||ADT^A01||P|2.3" +                "PID | 77291 | PATID1234 ^ 9 ^ 55A ||| Willian ^ Smith0 ^^ III || 19680219 | M ||| 2222 HOME STREET^^ ISHPEMING ^ MI ^ 49849 ||^^^^^^ 99160234242" +                "NK1 || REDWOOD ^ NELDA | SPOUSE | 6666 HOME STREET^^ ISHPEMING ^ MI ^ 49849 |^^^^^^ 555 - 555 - 5001 |^^^^^^ 444 - 555 - 5001";
+        }
     }
 }
