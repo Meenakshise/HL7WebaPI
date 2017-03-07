@@ -8,7 +8,13 @@ namespace HL7Windows.Utilities
 {
     public static class HL7APIClient
     {
-
+        /// <summary>
+        /// Get Request
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="url"></param>
+        /// <param name="query"></param>
+        /// <returns></returns>
         public static T GetAsync<T>(Uri url, string query)
         {
             using (var client = new HttpClient())
@@ -23,7 +29,14 @@ namespace HL7Windows.Utilities
             }
             return default(T);
         }
-
+        /// <summary>
+        /// Post Request
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="url"></param>
+        /// <param name="query"></param>
+        /// <param name="postData"></param>
+        /// <returns></returns>
         public static T PostAsync<T>(Uri url, string query, string postData)
         {
             using (var client = new HttpClient())

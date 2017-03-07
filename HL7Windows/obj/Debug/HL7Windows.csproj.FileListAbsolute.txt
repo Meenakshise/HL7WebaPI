@@ -8,3 +8,4 @@ D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.exe
 D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.pdb
 D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\Newtonsoft.Json.dll
 D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\Newtonsoft.Json.xml
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.csprojResolveAssemblyReference.cache
