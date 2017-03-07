@@ -1,0 +1,10 @@
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\HL7Windows.exe.config
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\HL7Windows.exe
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\HL7Windows.pdb
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.Form1.resources
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.Properties.Resources.resources
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.csproj.GenerateResource.Cache
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.exe
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\obj\Debug\HL7Windows.pdb
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\Newtonsoft.Json.dll
+D:\Apps\WebApps\HL7WebaPI\HL7Windows\bin\Debug\Newtonsoft.Json.xml
